@@ -1,0 +1,8 @@
+C:\Users\SEROO\Desktop\Yazılıma Dair Her şeyi içeren klasör\C# Örnek Uygulamalar\ProfessionalAbstraction\ProfessionalAbstraction\bin\Debug\ProfessionalAbstraction.exe.config
+C:\Users\SEROO\Desktop\Yazılıma Dair Her şeyi içeren klasör\C# Örnek Uygulamalar\ProfessionalAbstraction\ProfessionalAbstraction\bin\Debug\ProfessionalAbstraction.exe
+C:\Users\SEROO\Desktop\Yazılıma Dair Her şeyi içeren klasör\C# Örnek Uygulamalar\ProfessionalAbstraction\ProfessionalAbstraction\bin\Debug\ProfessionalAbstraction.pdb
+C:\Users\SEROO\Desktop\Yazılıma Dair Her şeyi içeren klasör\C# Örnek Uygulamalar\ProfessionalAbstraction\ProfessionalAbstraction\obj\Debug\ProfessionalAbstraction.csproj.AssemblyReference.cache
+C:\Users\SEROO\Desktop\Yazılıma Dair Her şeyi içeren klasör\C# Örnek Uygulamalar\ProfessionalAbstraction\ProfessionalAbstraction\obj\Debug\ProfessionalAbstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEROO\Desktop\Yazılıma Dair Her şeyi içeren klasör\C# Örnek Uygulamalar\ProfessionalAbstraction\ProfessionalAbstraction\obj\Debug\ProfessionalAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\SEROO\Desktop\Yazılıma Dair Her şeyi içeren klasör\C# Örnek Uygulamalar\ProfessionalAbstraction\ProfessionalAbstraction\obj\Debug\ProfessionalAbstraction.exe
+C:\Users\SEROO\Desktop\Yazılıma Dair Her şeyi içeren klasör\C# Örnek Uygulamalar\ProfessionalAbstraction\ProfessionalAbstraction\obj\Debug\ProfessionalAbstraction.pdb
